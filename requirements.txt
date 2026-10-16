@@ -1,0 +1,8 @@
+geopandas
+matplotlib
+contextily
+shapely
+pyproj
+pandas
+pillow
+certifi
